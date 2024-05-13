@@ -16,7 +16,7 @@ include $(DEVKITARM)/3ds_rules
 # DATA is a list of directories containing data files
 # INCLUDES is a list of directories containing header files
 #---------------------------------------------------------------------------------
-TARGET		:=	$(notdir $(CURDIR))
+TARGET		:=	sm
 BUILD		:=	build
 SOURCES		:=	source source/patches
 DATA		:=	data
