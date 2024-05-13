@@ -13,6 +13,11 @@ It patches services when they register themselves to the Service Manager.
 
 All credit go to the Luma 3DS team.
 
+# Installation
+
+- Put the built ``sm.cxi`` in ``sd:/luma/sysmodules/`` (the file path must be ``sd:/luma/sysmodules/sm.cxi``)
+- Enable ``Enable loading external FIRMs and modules`` in the Luma3DS settings (hold SELECT while turning the 3DS on to open the Luma settings menu)
+
 # Original README.md
 
 # 3ds_sm
